@@ -3,9 +3,9 @@
 ## 📸 Hình ảnh minh họa
 Dưới đây là kết quả thực hiện bài tập của mình:
 
-| Màn hình Đăng nhập | Màn hình Đăng ký |
-|---|---|
-| ![Login Screen](app/Images/login.png) | ![Register Screen](app/Images/register.png) |
+| Màn hình Đăng nhập | Màn hình Đăng ký                        |
+|---|-----------------------------------------|
+| ![Login Screen](app/Images/login.png) | ![Register Screen](app/Images/img1.png) |
 
 ## ✨ Chức năng chính
 - [x] Thiết kế giao diện bằng XML (Material Design).
