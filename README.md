@@ -3,9 +3,9 @@
 ## 📸 Hình ảnh minh họa
 Dưới đây là kết quả thực hiện bài tập của mình:
 
-| Màn hình Đăng nhập | Màn hình Đăng ký |
-|---|---|
-| ![Login Screen](Images/login.png) | ![Register Screen](Images/register.png) |
+| Màn hình Đăng nhập                    | Màn hình Đăng ký                            |
+|---------------------------------------|---------------------------------------------|
+| ![Login Screen](app/Images/login.png) | ![Register Screen](app/Images/register.png) |
 
 ## ✨ Chức năng chính
 - [x] Thiết kế giao diện bằng XML (Material Design).
@@ -15,5 +15,3 @@ Dưới đây là kết quả thực hiện bài tập của mình:
 ## 🛠 Công nghệ sử dụng
 * Ngôn ngữ: **Java**.
 * IDE: **Android Studio**.
-
-  
